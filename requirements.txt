@@ -1,1 +1,1 @@
-manim
+manim==v0.15.1
